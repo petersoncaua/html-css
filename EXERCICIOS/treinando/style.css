@@ -1,0 +1,13 @@
+body:hover {
+    background-color: bisque;
+}
+
+#centro:hover {
+    padding: 20px;
+    color: aqua;
+}
+p {
+    padding: 50px;
+    border-radius: 14px;
+    text-align: justify;
+}

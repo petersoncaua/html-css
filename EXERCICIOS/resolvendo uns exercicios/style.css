@@ -1,0 +1,17 @@
+.social {
+    padding-left: 0px;
+}
+
+.social li {
+    display: flex;
+    align-items: center;
+    gap: 3px;
+    margin-bottom: 8px;
+}
+
+.social li i {
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
